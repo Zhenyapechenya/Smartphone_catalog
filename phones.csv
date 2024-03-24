@@ -1,0 +1,7 @@
+id;name;image;price;release_date;lte_exists  
+1;Samsung Galaxy Edge 2;https://avatars.mds.yandex.net/get-mpic/364668/img_id5636027222104023144.jpeg/orig;73000;2016-12-12;True 
+2;Iphone X;https://avatars.mds.yandex.net/get-mpic/200316/img_id270362589725797013.png/orig;80000;2017-06-01;True 
+3;Nokia 8;https://avatars.mds.yandex.net/get-mpic/397397/img_id6752445806321208103.jpeg/orig;20000;2013-01-20;False
+4;iPhone 15 Pro;https://i.postimg.cc/1zV1zvPg/bze90wjx-1.png;116999;2023-09-22;True
+5;Xiaomi Redmi Note;https://i.postimg.cc/mk5ShyTD/6329170726.jpg;18999;2019-08-01;True
+6;POCO C51;https://i.postimg.cc/zBPhkD62/600012521806b0.png;4999;2010-01-01;False
