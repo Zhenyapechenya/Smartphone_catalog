@@ -36,3 +36,6 @@ pip install -r requirements.txt
 ```bash
 python manage.py runserver
 ```
+
+## Задачу выполнила
+Евгения Псарева `epsareva77@gmail.com`
