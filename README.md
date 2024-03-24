@@ -31,6 +31,18 @@
 pip install -r requirements.txt
 ```
 
+- При создании моделей или их изменении необходимо выполнить следующие команды:
+- 
+```bash
+python manage.py makemigrations
+python manage.py migrate
+```
+- Команда для загрузки данных из csv в БД
+
+```bash
+python manage.py import_phones
+```
+
 - Выполнить команду для запуска приложения:
 
 ```bash
