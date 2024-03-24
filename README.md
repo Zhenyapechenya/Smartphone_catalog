@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ```
 
 - При создании моделей или их изменении необходимо выполнить следующие команды:
-- 
+
 ```bash
 python manage.py makemigrations
 python manage.py migrate
